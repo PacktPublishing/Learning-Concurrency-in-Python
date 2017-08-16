@@ -1,0 +1,40 @@
+ForkPoolWorker-1 %s:INFO:2 being processed
+ForkPoolWorker-1 %s:INFO:Final Result: 4
+ForkPoolWorker-2 %s:INFO:3 being processed
+ForkPoolWorker-2 %s:INFO:Final Result: 6
+ForkPoolWorker-3 %s:INFO:4 being processed
+ForkPoolWorker-3 %s:INFO:Final Result: 8
+ForkPoolWorker-4 %s:INFO:5 being processed
+ForkPoolWorker-4 %s:INFO:Final Result: 10
+ForkPoolWorker-1 %s:INFO:6 being processed
+ForkPoolWorker-1 %s:INFO:Final Result: 12
+ForkPoolWorker-2 %s:INFO:3 being processed
+ForkPoolWorker-1 %s:INFO:2 being processed
+ForkPoolWorker-2 %s:INFO:Final Result: 6
+ForkPoolWorker-1 %s:INFO:Final Result: 4
+ForkPoolWorker-3 %s:INFO:4 being processed
+ForkPoolWorker-2 %s:INFO:6 being processed
+ForkPoolWorker-3 %s:INFO:Final Result: 8
+ForkPoolWorker-2 %s:INFO:Final Result: 12
+ForkPoolWorker-4 %s:INFO:5 being processed
+ForkPoolWorker-4 %s:INFO:Final Result: 10
+ForkPoolWorker-2:%s:INFO:3 being processed
+ForkPoolWorker-3:%s:INFO:4 being processed
+ForkPoolWorker-1:%s:INFO:2 being processed
+ForkPoolWorker-3:%s:INFO:Final Result: 8
+ForkPoolWorker-1:%s:INFO:Final Result: 4
+ForkPoolWorker-3:%s:INFO:6 being processed
+ForkPoolWorker-2:%s:INFO:Final Result: 6
+ForkPoolWorker-3:%s:INFO:Final Result: 12
+ForkPoolWorker-4:%s:INFO:5 being processed
+ForkPoolWorker-4:%s:INFO:Final Result: 10
+ForkPoolWorker-1 %s INFO 2 being processed
+ForkPoolWorker-2 %s INFO 3 being processed
+ForkPoolWorker-2 %s INFO Final Result: 6
+ForkPoolWorker-2 %s INFO 6 being processed
+ForkPoolWorker-2 %s INFO Final Result: 12
+ForkPoolWorker-4 %s INFO 5 being processed
+ForkPoolWorker-4 %s INFO Final Result: 10
+ForkPoolWorker-3 %s INFO 4 being processed
+ForkPoolWorker-3 %s INFO Final Result: 8
+ForkPoolWorker-1 %s INFO Final Result: 4
