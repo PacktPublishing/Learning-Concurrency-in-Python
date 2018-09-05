@@ -5,7 +5,7 @@ def child():
   
 def parent(): 
   print("We are in the parent process with PID= %d"%os.getpid())
-  newRef=os.fork() 
+  newRef=os.getpid() 
   if newRef==0: 
     child() 
   else: 
