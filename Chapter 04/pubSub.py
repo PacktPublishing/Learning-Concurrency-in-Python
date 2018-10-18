@@ -58,8 +58,8 @@ def main():
 
   ## Joining our Threads
   pub1.join()
-  consumer1.join()
-  consumer2.join()
+  sub1.join()
+  sub2.join()
 
 if __name__ == '__main__':
   main()
